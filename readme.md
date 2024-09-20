@@ -59,7 +59,7 @@ For support, feature requests, or bug reports, please open an issue on the [GitH
 
 ## License
 
-This project is licensed under the GPL v2 or later.
+This project is licensed under the MIT license.
 
 ## Author
 
