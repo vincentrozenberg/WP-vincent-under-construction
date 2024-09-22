@@ -55,7 +55,7 @@ A: Yes, you can create and design any page in WordPress and set it as your under
 
 ## Support
 
-For support, feature requests, or bug reports, please open an issue on the [GitHub repository](https://github.com/your-github-username/vincent-under-construction).
+For support, feature requests, or bug reports, please open an issue on the [GitHub repository](https://github.com/vincentrozenberg/vincent-under-construction).
 
 ## License
 
