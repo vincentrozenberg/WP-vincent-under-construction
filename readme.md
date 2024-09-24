@@ -2,6 +2,9 @@
 
 A simple WordPress plugin that allows you to display an under construction page while your site is being developed or updated.
 
+![image](https://github.com/user-attachments/assets/134ed7d6-f14f-4dd7-9cfe-1a36ea7e7408)
+
+
 ## Description
 
 Vincent's Under Construction is a lightweight WordPress plugin that enables you to easily set up an "under construction" or "coming soon" page for your website. When activated, it redirects all non-logged-in users to a specified page, allowing you to work on your site without interruption.
